@@ -31,11 +31,11 @@ button {
 }
 
 #increment-btn {
-  background: darkblue;
+  background: darkred;
 }
 
 #increment-btn:hover {
-  background: blue;
+  background: red;
 }
 
 #save-btn {
